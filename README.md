@@ -12,12 +12,6 @@ Intarmour's extension allows you to delete these unused product images easily fr
 require intarmour/module-image-clean
 ```
 
-#### How to reindex your Magento 2 / Adobe Commerce store from Command Line - One or more indexers are invalid
-
-Reindex Magento Data via SSH (from Magento root folder)
-
-> php bin/magento indexer:reindex
-
 Contribution
 ---
 Want to contribute to this extension? The quickest way is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
