@@ -1,0 +1,21 @@
+{
+    "name": "intarmour/module-image-clean",
+    "description": "N/A",
+    "require": {
+        "php": "~7.4.0|~8.1",
+        "intarmour/module-all": "*"
+    },
+    "type": "magento2-module",
+    "version": "1.0",
+    "license": [
+        "proprietary"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Intarmour\\ImageClean\\": ""
+        }
+    }
+}
