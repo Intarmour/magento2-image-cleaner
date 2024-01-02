@@ -1,6 +1,9 @@
-<a href="http://www.intarmour.com" title="Magento Extension"><img src="https://intarmour.com/wp-content/uploads/2023/03/logo-white-intarmour.png" width="100" align="right" alt="Magento2 plugins" /></a>
+<a href="http://www.intarmour.com" title="Magento Extension"><img src="https://intarmour.com/wp-content/uploads/2023/12/intarmour-logo-white.png" width="100" align="right" alt="Magento2 plugins" /></a>
 
 # Product Image Cleaner / Adobe Commerce from Admin
+[![Latest Stable Version](https://poser.okvpn.org/intarmour/module-image-clean/v/stable)](https://packagist.org/packages/intarmour/module-image-clean)
+[![Total Downloads](https://poser.okvpn.org/intarmour/module-image-clean/downloads)](https://packagist.org/packages/intarmour/module-image-clean)
+
 
 Deleting a product in Magento does not delete the images it stores on the server. These images will probably stay there forever clogging up your disk space.
 
